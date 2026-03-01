@@ -1,0 +1,12 @@
+{
+  "healthy": {
+    "cause": "No disease symptoms detected.",
+    "cure": "No treatment required.",
+    "prevention": "Continue regular crop monitoring and balanced nutrition."
+  },
+  "default": {
+    "cause": "Pathogen infection and/or environmental stress can trigger this condition.",
+    "cure": "Remove heavily affected leaves and apply a crop-specific treatment recommended by local agronomy experts.",
+    "prevention": "Use certified seeds, maintain field hygiene, avoid leaf wetness, and rotate crops."
+  }
+}
